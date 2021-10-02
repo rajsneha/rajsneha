@@ -14,4 +14,4 @@
 
 
 <img align="left" alt="rajsneha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajsneha&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt ="rajsneha's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsneha&layout=compact&theme=radical" />
+<img align="left" alt ="rajsneha's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsneha&layout=compact&theme=radical" />
